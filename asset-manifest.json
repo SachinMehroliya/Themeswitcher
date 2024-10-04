@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SachinMehroliya/Themeswitcher.git/static/css/main.878c36cd.css",
+    "main.js": "/SachinMehroliya/Themeswitcher.git/static/js/main.49716cec.js",
+    "static/js/453.5b0e75c0.chunk.js": "/SachinMehroliya/Themeswitcher.git/static/js/453.5b0e75c0.chunk.js",
+    "index.html": "/SachinMehroliya/Themeswitcher.git/index.html",
+    "main.878c36cd.css.map": "/SachinMehroliya/Themeswitcher.git/static/css/main.878c36cd.css.map",
+    "main.49716cec.js.map": "/SachinMehroliya/Themeswitcher.git/static/js/main.49716cec.js.map",
+    "453.5b0e75c0.chunk.js.map": "/SachinMehroliya/Themeswitcher.git/static/js/453.5b0e75c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.878c36cd.css",
+    "static/js/main.49716cec.js"
+  ]
+}
